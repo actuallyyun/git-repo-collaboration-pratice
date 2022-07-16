@@ -8,12 +8,13 @@ Use the arrow key to scroll. Type in `q` to quit
 
 
 An example
+```
     ➜  Week02 ls -l                     
     total 32
     drwxr-xr-x  3 Ayun  staff     96 Jul 16 11:25 first
     -rw-r--r--  1 Ayun  staff  15085 Jul 16 11:28 google.html
     -rw-r--r--  1 Ayun  staff      0 Jul 16 11:43 part2.md
-
+```
 **?????What is the integer 32 ? “The total sum of all the file” ----what does this mean?**
 
 
@@ -43,15 +44,19 @@ An example
 kill the whole line `Ctrl+U`
 
 10. What is the difference between a terminal and shell?
+
 A terminal is a program that runs shell, it's an interface. 
 
 11. What is an absolute path?
+
 An absolute path starts from home directory.
 
 12. What is an relative path?
+
 An relative path is the path that relative to the directory the user is currently in.
 
 13. What is a flag? Give three examples of flags you have used.
+
 A flag is an option we could pass to a command. I imagine under the hood, a flag is a parameter that a programm receieves that leads to different output.
 
 
