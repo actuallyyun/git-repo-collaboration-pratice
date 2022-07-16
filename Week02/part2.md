@@ -8,12 +8,13 @@ Use the arrow key to scroll. Type in `q` to quit
 
 
 An example
+```
     ➜  Week02 ls -l                     
     total 32
     drwxr-xr-x  3 Ayun  staff     96 Jul 16 11:25 first
     -rw-r--r--  1 Ayun  staff  15085 Jul 16 11:28 google.html
     -rw-r--r--  1 Ayun  staff      0 Jul 16 11:43 part2.md
-
+```
 **?????What is the integer 32 ? “The total sum of all the file” ----what does this mean?**
 
 
