@@ -44,15 +44,19 @@ An example
 kill the whole line `Ctrl+U`
 
 10. What is the difference between a terminal and shell?
+
 A terminal is a program that runs shell, it's an interface. 
 
 11. What is an absolute path?
+
 An absolute path starts from home directory.
 
 12. What is an relative path?
+
 An relative path is the path that relative to the directory the user is currently in.
 
 13. What is a flag? Give three examples of flags you have used.
+
 A flag is an option we could pass to a command. I imagine under the hood, a flag is a parameter that a programm receieves that leads to different output.
 
 
